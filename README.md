@@ -1,4 +1,5 @@
 # RandomMon
-Just a sideproject. A program to give out a random Pokémon. 
+A Website to give out a random Pokémon. /n
 Database: Postgres
-Language: ?
+Language: Python
+
