@@ -1,4 +1,4 @@
-# RandomMon  
+# RandomMonGenerator  
 ## Allgemeine Infos  
 Ein kleines Sideproject.  
 Eine Website, später Programm, welches dem User ein zufälliges Pokemon zeigt.  
