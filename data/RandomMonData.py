@@ -93,7 +93,7 @@ def create_csv(file_name, num_pokemon):
                 writer.writerow(pokemon_data)
 
 # Skript ausführen
-file_name = "C:\\Users\\vly\\OneDrive - it-novum GmbH\\Dokumente\\Dokumente Viet Hung Ly\\Privat\\RandomMonGenerator\\RandomMonGenerator\\Pokemon_data.csv"
+file_name = "C:\\Users\\vly\\OneDrive - it-novum GmbH\\Dokumente\\Dokumente Viet Hung Ly\\Privat\\RandomMonGenerator\\RandomMonGenerator\\data\\Pokemon_data.csv"
 num_pokemon = 1025  # Anzahl der Pokémon, die du abfragen möchtest
 create_csv(file_name, num_pokemon)
 
