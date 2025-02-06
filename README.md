@@ -16,3 +16,9 @@ Database: Postgres
 Backend: Python/ Flask  
 Frontend: Next.js(React)  
 
+## Roadmap  
+Fertigstellen von Web  
+Who's that Pokemon mode  
+
+
+
